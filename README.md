@@ -1,6 +1,6 @@
 ## Kelly Guan 
 👋 hey! I'm Kelly Guan (she/her), a Software Engineering Student @uWaterloo 👩🏻‍💻 
 
-I'm interested in the intersection of tech and entrepreneurship. I love bringing ideas to life through programming, design thinking, collaborating with others, and advocating for better access to technology and education. 
+Focusing my degree on software and human-centric design. I’m passionate about the intersection of technology and entrepreneurship and I love bringing ideas to life through programming, design thinking, and collaborating with others. 
 
 Check me out on my website https://kellyguan.tech/
